@@ -1,4 +1,4 @@
-export const name = 'enginecore';
+export const name = 'EngineCore';
 
 var items = []
 
